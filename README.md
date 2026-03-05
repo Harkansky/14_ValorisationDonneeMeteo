@@ -1,4 +1,4 @@
-# Valorisation Donnée Météo 2
+# Valorisation Donnée Météo (conflit résolu)
 
 Projet Data For Good - Saison 14
 
