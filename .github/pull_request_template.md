@@ -10,7 +10,7 @@
 <!-- Problème résolu ou fonctionnalité apportée. Décrivez l'objectif de cette Pull Request et les principaux changements apportés. -->
 - 
 
-## Contexte et Issues relatives (Related issues)
+## Contexte et Issues relatives
 <!-- Contexte fonctionnel ou technique nécessaire à la revue. -->
 <!-- Mentionnez les tickets ou issues liés à cette Pull Request (ex: Fixes #123, Relates to #456). -->
 
